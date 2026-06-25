@@ -1,0 +1,176 @@
+/* :root {
+  --bg-dark: #0a0a0a;
+  --surface-dark: #111111;
+  --border-color: #2a2a2a;
+  --accent-blue: #87CEEB; /* Updated to Sky Blue */
+/* }
+
+body {
+  background-color: var(--bg-dark) !important;
+  color: #ffffff !important;
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p, span, small { color: #ffffff !important; }
+
+
+.text-accent { 
+  color: var(--accent-blue) !important; 
+}
+
+.bg-surface { 
+  background-color: var(--surface-dark); 
+  border: 1px solid var(--border-color); 
+  border-radius: 20px; 
+}
+
+.btn-accent, .btn-submit { 
+  background-color: var(--accent-blue) !important; 
+  color: #000000 !important; /* Button text stays black for contrast */
+  /* font-weight: 700; 
+  border-radius: 25px; 
+  padding: 10px 30px;
+  border: none;
+  transition: all 0.3s ease;
+}
+
+.btn-accent:hover, .btn-submit:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(135, 206, 235, 0.3);
+}
+
+
+.form-control { 
+  background-color: var(--bg-dark) !important; 
+  border: 1px solid var(--border-color) !important; 
+  color: white !important; 
+  padding: 12px;
+}
+.hero-card {
+  background-color: var(--surface-dark);
+  border: 1px solid var(--border-color);
+  border-radius: 20px;
+  padding: 2rem;
+}
+
+.g-badge {
+  background-color: var(--accent-blue);
+  color: #000;
+  padding: 10px 20px;
+  border-radius: 12px;
+  font-weight: 800;
+  font-size: 1.5rem;
+}
+
+
+.about-section {
+  background-color: var(--bg-dark);
+  color: white;
+  padding: 80px 0;
+}
+
+.about-card {
+  background-color: var(--surface-dark);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 30px;
+  transition: transform 0.2s, border-color 0.3s ease;
+}
+
+.about-card:hover {
+  border-color: var(--accent-blue); /* Sky blue border on hover */
+/* } */
+
+/* .icon-box {
+  color: var(--accent-blue);
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+.skills-section {
+  background-color: var(--bg-dark);
+  padding: 80px 0;
+}
+
+.skill-box {
+  background-color: var(--surface-dark);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 30px;
+  transition: border-color 0.3s ease; 
+}
+
+.skill-box:hover {
+  border-color: var(--accent-blue);
+}
+
+.skill-badge {
+  background-color: #1a1a1a;
+  border: 1px solid #333;
+  color: #fff;
+  padding: 8px 16px;
+  border-radius: 8px;
+  display: inline-block;
+  margin: 5px;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+}
+
+.skill-badge:hover {
+  background-color: var(--accent-blue);
+  color: #000;
+  cursor: pointer;
+}
+
+
+.exp-section { 
+  background-color: var(--bg-dark); 
+  color: white; 
+  padding: 80px 0; 
+}
+
+.timeline { 
+  border-left: 2px solid var(--border-color); 
+  padding-left: 20px; 
+  position: relative; 
+}
+
+.timeline-dot {
+  position: absolute; 
+  left: -7px; 
+  width: 14px; 
+  height: 14px;
+  background-color: var(--accent-blue); 
+  border-radius: 50%;
+}
+
+.exp-card, .edu-card {
+  background-color: var(--surface-dark);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 25px;
+  margin-bottom: 25px;
+}
+
+.contact-section { 
+  background-color: var(--bg-dark); 
+  color: white; 
+  padding: 80px 0; 
+}
+
+.contact-card, .form-card {
+  background-color: var(--surface-dark);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 30px;
+}
+
+.contact-section p {
+  color: #ffffff !important;
+}
+
+
+.contact-section .text-muted {
+  color: #a0a0a0 !important;
+}  */
