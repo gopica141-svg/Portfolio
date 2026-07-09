@@ -297,7 +297,7 @@ export default function Portfolio() {
           <div style={{ display: "flex", gap: 12, marginTop: 36, flexWrap: "wrap" }}>
             <button className="cta-btn cta-primary" onClick={() => scrollTo("Projects")}>View Projects</button>
             <button className="cta-btn cta-outline" onClick={() => scrollTo("Contact")}>Get in Touch</button>
-            <a href="/A Gopica__Resume.pdf" download="Gopica_Resume.pdf" style={{ textDecoration: "none" }}>
+            <a href="/RESUME.pdf" download="RESUME.pdf" style={{ textDecoration: "none" }}>
     <button className="cta-btn cta-outline">Download Resume</button>
   </a>
           </div>
@@ -422,7 +422,7 @@ export default function Portfolio() {
   icon: "💻", 
   label: "GitHub", 
   value: "github.com/GopicaA", 
-  href: "https://github.com/GopicaA" 
+  href: "https://github.com/gopica141-svg" 
 },
             ].map(item => (
               <div key={item.label} className="glass-card" style={{ padding: "16px 24px", display: "flex", alignItems: "center", gap: 16, textAlign: "left" }}>
